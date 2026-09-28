@@ -24,8 +24,3 @@ Evaluar los determinantes del salario y la dispersión salarial inicial analizan
 - **Hallazgo 1:** Breve resumen del coeficiente más relevante y su significatividad estadística.
 - **Hallazgo 2:** Interpretación económica del efecto de interacción detectado.
 - **Conclusión de negocio / política:** Implicación práctica del resultado empírico.
-
-## 🚀 Cómo reproducir el análisis
-1. Clonar el repositorio:
-   ```bash
-   git clone [https://github.com/Alexggarcia7/tu-nombre-de-repo.git](https://github.com/Alexggarcia7/tu-nombre-de-repo.git)
