@@ -49,3 +49,4 @@ Matriz de correlación para prevenir problemas de colinealidad antes de la estim
 1. Clonar el repositorio:
    ```bash
    git clone [https://github.com/Alexggarcia7/wage-dispersion-analysis.git](https://github.com/Alexggarcia7/wage-dispersion-analysis.git)
+   
